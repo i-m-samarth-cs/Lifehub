@@ -1,0 +1,15 @@
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\bin\Debug\net8.0\LifeHub.Services.deps.json
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\bin\Debug\net8.0\LifeHub.Services.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\bin\Debug\net8.0\LifeHub.Services.pdb
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\bin\Debug\net8.0\LifeHub.Core.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\bin\Debug\net8.0\LifeHub.Core.pdb
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.csproj.AssemblyReference.cache
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.AssemblyInfoInputs.cache
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.AssemblyInfo.cs
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.csproj.CoreCompileInputs.cache
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub..D667A242.Up2Date
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\refint\LifeHub.Services.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\LifeHub.Services.pdb
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Services\obj\Debug\net8.0\ref\LifeHub.Services.dll

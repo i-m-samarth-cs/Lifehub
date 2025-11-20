@@ -1,0 +1,18 @@
+{
+  "servers": {
+    "uno": {
+       "url": "https://mcp.platform.uno/v1",
+       "description": "Uno Platform MCP server (configured for LifeHub development)",
+       "features": ["docs","search","fetch"]
+    }
+  },
+  "project": {
+    "name": "LifeHub",
+    "root": "src",
+    "projects": [
+      "LifeHub.Core",
+      "LifeHub.Services",
+      "LifeHub.UI"
+    ]
+  }
+}

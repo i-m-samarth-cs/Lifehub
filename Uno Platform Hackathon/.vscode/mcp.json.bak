@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "uno": {
+       "url": "https://mcp.platform.uno/v1"
+    }
+  }
+}

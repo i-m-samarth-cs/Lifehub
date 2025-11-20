@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+XI6PBGBEs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samar\\Downloads\\Uno Platform Hackathon\\Uno Platform Hackathon\\src\\LifeHub.Services\\LifeHub.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\samar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "projectPath": "C:\\Users\\samar\\Downloads\\Uno Platform Hackathon\\Uno Platform Hackathon\\src\\LifeHub.Services\\LifeHub.Services.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\samar\\Downloads\\Uno Platform Hackathon\\Uno Platform Hackathon\\src\\LifeHub.Services\\LifeHub.Services.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "projectPath": "C:\\Users\\samar\\Downloads\\Uno Platform Hackathon\\Uno Platform Hackathon\\src\\LifeHub.Services\\LifeHub.Services.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\samar\\Downloads\\Uno Platform Hackathon\\Uno Platform Hackathon\\src\\LifeHub.Services\\LifeHub.Services.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\bin\Debug\net8.0\LifeHub.Core.deps.json
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\bin\Debug\net8.0\LifeHub.Core.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\bin\Debug\net8.0\LifeHub.Core.pdb
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.AssemblyInfoInputs.cache
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.AssemblyInfo.cs
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\refint\LifeHub.Core.dll
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\LifeHub.Core.pdb
+C:\Users\samar\Downloads\Uno Platform Hackathon\Uno Platform Hackathon\src\LifeHub.Core\obj\Debug\net8.0\ref\LifeHub.Core.dll
